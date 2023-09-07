@@ -1,0 +1,2 @@
+﻿Lab2.obj : error LNK2005: _main already defined in Lab 1 part 1.obj
+C:\Users\MComf\Documents\ASU\CSE 100\source\repos\Lab1\Debug\Lab1.exe : fatal error LNK1169: one or more multiply defined symbols found
